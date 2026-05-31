@@ -135,7 +135,6 @@ const darshan = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshanpawar7&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshanpawar7&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darshanpawar7&theme=tokyonight"/>
 </div>
 
