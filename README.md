@@ -165,7 +165,7 @@ const darshan = {
 | **💧 JalSetu** | Smart water ops platform with live telemetry | Node.js, PostGIS, MQTT, Socket.IO | [Demo](https://youtu.be/6h177XYwRX8?si=LWzIVPNuzODiMuiL) |
 | **🌊 SustainFlow** | IoT leak detection + live dashboard | ESP32, Supabase, React | [Live](https://sustainflow.netlify.app) |
 | **🤖 AquaMind AI** | Serverless anomaly detection | FastAPI, scikit-learn, AWS | [Repo](https://github.com/Darshanpawar7/AquaMindAI) |
-| **🧠 ML Mondays** | AI/ML community blog platform | Astro, Tailwind CSS, Netlify | [Repo](https://github.com/neuralhive-ec/mlmondays) |
+| **🧠 ML Mondays** | AI/ML community blog platform | Astro, Tailwind CSS, Netlify | [Live]([https://github.com/neuralhive-ec/mlmondays](https://mlmondays.vercel.app/)) |
 | **🧩 NOVA** | Gamified substance awareness platform | React, Node.js, MongoDB | [Repo](https://github.com/Darshanpawar7/nova-web-app) |
 
 [**View All Projects →**](https://github.com/Darshanpawar7?tab=repositories)
@@ -206,11 +206,15 @@ const darshan = {
 <div align="center">
 
 **🎮 Coding Years:** 4+  
-**💡 Passionate About:** AI/ML • Full Stack • UI/UX Design • Singing
-**🚀 Currently Vibing To:** Building production AI at scale  
-**💬 Favorite Quote:** "In a world full of trends, I want to remain classic."  
-**⚡ Life Motto:** Code. Create. Innovate. Repeat.  
-**☕ Coffee Consumed:** Infinite
+**💡 Passionate About:** AI/ML • Full Stack • UI/UX Design • Product Building 
+**🎬 Creating Beyond Code:**
+• Documentary & Cinematic Storytelling
+• Video Editing & Content Creation
+• Singing • Guitar • Dance
+**🚀 Currently Vibing To:** Scalable AI products and startup ventures  
+**💬** "In a world full of trends, I want to remain classic."  
+⚡ Build. Create. Inspire. Repeat.
+☕ Fueled by Coffee, Curiosity & Ambition.
 
 </div>
 
