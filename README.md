@@ -135,7 +135,8 @@ const darshan = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshanpawar7&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshanpawar7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshanpawar7&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darshanpawar7&theme=tokyonight"/>
 </div>
 
 <br/>
@@ -147,8 +148,7 @@ const darshan = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshanpawar7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Darshanpawar7&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="48%"/>
+ <img src="https://github-trophies.vercel.app/?username=Darshanpawar7" />
 </div>
 
 <br/>
@@ -203,22 +203,35 @@ const darshan = {
 
 ## 🎯 Fun Facts
 
-<div align="center">
+<div align="">
 
-**🎮 Coding Years:** 4+  
-**💡 Passionate About:** AI/ML • Full Stack • UI/UX Design • Product Building 
-**🎬 Creating Beyond Code:**
-• Documentary & Cinematic Storytelling
-• Video Editing & Content Creation
-• Singing • Guitar • Dance
-**🚀 Currently Vibing To:** Scalable AI products and startup ventures  
-**💬** "In a world full of trends, I want to remain classic."  
-⚡ Build. Create. Inspire. Repeat.
-☕ Fueled by Coffee, Curiosity & Ambition.
+### 🚀 Builder • Developer • Creator
+
+🎮 **Building for 4+ Years**
+
+🧠 **Passionate About**
+AI/ML • Full Stack Development • UI/UX Design • Product Building
+
+🎬 **Creating Beyond Code**
+Documentary & Cinematic Storytelling • Video Editing & Content Creation
+
+🎤 Vocalist • 🎸 Guitarist • 🪈 Flutist • 💃 Dancer
+
+* **Currently Building** -
+Scalable AI Products & Startup Ventures
+
+* **Vision** -
+Creating technology and stories that inspire millions
+
+> **Fav💬** *"तत् त्वम् असि - I am the Infinite"*
+
+⚡ **Build. Create. Inspire. Repeat.**
+☕ **Fueled by Coffee, Curiosity & Ambition**
 
 </div>
 
 <br/>
+
 
 ## 💭 Random Dev Quote
 
