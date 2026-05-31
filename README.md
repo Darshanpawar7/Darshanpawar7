@@ -165,7 +165,7 @@ const darshan = {
 | **💧 JalSetu** | Smart water ops platform with live telemetry | Node.js, PostGIS, MQTT, Socket.IO | [Demo](https://youtu.be/6h177XYwRX8?si=LWzIVPNuzODiMuiL) |
 | **🌊 SustainFlow** | IoT leak detection + live dashboard | ESP32, Supabase, React | [Live](https://sustainflow.netlify.app) |
 | **🤖 AquaMind AI** | Serverless anomaly detection | FastAPI, scikit-learn, AWS | [Repo](https://github.com/Darshanpawar7/AquaMindAI) |
-| **🧠 ML Mondays** | AI/ML community blog platform | Astro, Tailwind CSS, Netlify | [Live]([https://github.com/neuralhive-ec/mlmondays](https://mlmondays.vercel.app/)) |
+| **🧠 ML Mondays** | AI/ML community blog platform | Astro, Tailwind CSS, Netlify | [Live](https://mlmondays.vercel.app/) |
 | **🧩 NOVA** | Gamified substance awareness platform | React, Node.js, MongoDB | [Repo](https://github.com/Darshanpawar7/nova-web-app) |
 
 [**View All Projects →**](https://github.com/Darshanpawar7?tab=repositories)
