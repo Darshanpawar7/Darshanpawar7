@@ -145,11 +145,6 @@ const darshan = {
 </div>
 
 <br/>
-
-<div align="center">
- <img src="https://github-trophies.vercel.app/?username=Darshanpawar7" />
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -214,7 +209,7 @@ AI/ML • Full Stack Development • UI/UX Design • Product Building
 🎬 **Creating Beyond Code**
 Documentary & Cinematic Storytelling • Video Editing & Content Creation
 
-🎤 Vocalist • 🎸 Guitarist • 🪈 Flutist • 💃 Dancer
+🎤 Vocalist • 🎸 Guitarist • 🪈 Flutist
 
 * **Currently Building** -
 Scalable AI Products & Startup Ventures
