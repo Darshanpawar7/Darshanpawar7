@@ -33,6 +33,17 @@ const darshan = {
   reachMe: "darshanpawarworks@gmail.com",
   funFact: "I turn hardware sensors into cloud-scale platforms ⚡",
   hobbies: ["Building", "Reading", "Problem Solving"]
+  
+* Creating Beyond Code: 
+Documentary & Cinematic Storytelling • Video Editing & Content Creation
+🎤 Vocalist • 🎸 Guitarist • 🪈 Flutist
+
+* Currently Building -
+Scalable AI Products & Startup Ventures
+
+* Vision -
+Creating technology and stories that inspire millions
+
 };
 ```
 
@@ -54,6 +65,10 @@ const darshan = {
 | 🥉 | **3rd Place — NITK Surathkal Ideathon** | NOVA Smart Automation |
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🔧 Tech Stack
 
@@ -131,23 +146,7 @@ const darshan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💻 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshanpawar7&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darshanpawar7&theme=tokyonight"/>
-</div>
-
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshanpawar7&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF&area_color=58A6FF&title_color=FFFFFF&area=true" width="98%"/>
-</div>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌱 Featured Projects
 
@@ -194,35 +193,6 @@ const darshan = {
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎯 Fun Facts
-
-<div align="">
-
-### 🚀 Builder • Developer • Creator
-
-🎮 **Building for 4+ Years**
-
-🧠 **Passionate About**
-AI/ML • Full Stack Development • UI/UX Design • Product Building
-
-🎬 **Creating Beyond Code**
-Documentary & Cinematic Storytelling • Video Editing & Content Creation
-
-🎤 Vocalist • 🎸 Guitarist • 🪈 Flutist
-
-* **Currently Building** -
-Scalable AI Products & Startup Ventures
-
-* **Vision** -
-Creating technology and stories that inspire millions
-
-> **Fav💬** *"तत् त्वम् असि - I am the Infinite"*
-
-⚡ **Build. Create. Inspire. Repeat.**
-☕ **Fueled by Coffee, Curiosity & Ambition**
-
-</div>
 
 <br/>
 
