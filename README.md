@@ -60,6 +60,7 @@ Creating technology and stories that inspire millions
 | 🥇 | **Winner — CMDR Ideathon 2026** | Govt. of India · 100+ teams · JalSetu |
 | 🏆 | **Winner — Sustain-X Hackathon** | PES University · SustainFlow IoT System |
 | 🎤 | **Winner — Cultural Fest** | JK College of Commerce · Team Lead |
+| 🥈 | **2nd Place — HID Hackathon 2026** | PES University RR Campus · ₹50,000 prize · SpoofGuard |
 | 🥈 | **2nd Place — EmbedX Hackathon** | Xylem India · Embedded Innovation |
 | 🥈 | **2nd Place — VIT Chennai Case Study** | Business Innovation Competition |
 | 🥉 | **3rd Place — NITK Surathkal Ideathon** | NOVA Smart Automation |
